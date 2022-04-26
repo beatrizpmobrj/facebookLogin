@@ -1,0 +1,17 @@
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\bin\Debug\netstandard2.0\LoginWithFacebook.deps.json
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\bin\Debug\netstandard2.0\LoginWithFacebook.dll
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\bin\Debug\netstandard2.0\LoginWithFacebook.pdb
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.csproj.AssemblyReference.cache
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.AssemblyInfoInputs.cache
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.AssemblyInfo.cs
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.csproj.CoreCompileInputs.cache
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.dll
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\refint\LoginWithFacebook.dll
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\LoginWithFacebook.pdb
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\ref\LoginWithFacebook.dll
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Projetos Profissionais\LoginWithFacebook\LoginWithFacebook\LoginWithFacebook\obj\Debug\netstandard2.0\Profile.xaml.g.cs
